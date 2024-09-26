@@ -1,0 +1,226 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1920px" height="1080px" viewBox="0 0 1920 1080">
+<defs>
+<image id="wood_jpg" x="0" y="0" width="1200" height="800" xlink:href="./images/wood_jpg.jpg"/>
+
+<g id="Btn_0_Layer0_0_FILL">
+<path fill="#FFFF66" stroke="none" d="
+M -133 -42.95
+L -133 67 145 67 145 -42.95 -133 -42.95 Z"/>
+</g>
+
+<path id="Btn_0_Layer0_0_1_STROKES" stroke="#000000" stroke-width="7" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M -133 -42.95
+L 145 -42.95 145 67 -133 67 -133 -42.95 Z"/>
+
+<font horiz-adv-x="2048">
+<!--  Font Name: Times New Roman Bold
+Vendor ID: TMC 
+© 2017 The Monotype Corporation. All Rights Reserved. 
+
+Hebrew OpenType Layout logic copyright © 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; see embedded license description for details.
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=TMC&Name=Times%20New%20Roman&PSName=TimesNewRomanPS-BoldMT&applanguage=en_US-->
+<font-face font-family="Times_New_Roman_Bold" units-per-em="2048" ascent="1825" descent="443"/>
+
+<glyph unicode="P" horiz-adv-x="1251" d="
+M 553 614
+L 553 238
+Q 553 128 567 99 580 71 615 54 649 37 741 37
+L 741 0 52 0 52 37
+Q 146 37 180 54 213 72 227 100 240 128 240 238
+L 240 1118
+Q 240 1228 227 1256 213 1285 179 1302 145 1319 52 1319
+L 52 1356 643 1356
+Q 935 1356 1062 1252 1189 1148 1189 992 1189 860 1107 766 1025 672 881 638 784 614 553 614 Z
+M 553 1278
+L 553 692
+Q 586 690 603 690 725 690 791 762 857 835 857 987 857 1138 791 1208 725 1278 594 1278
+L 553 1278 Z"/>
+
+<glyph unicode="l" horiz-adv-x="569" d="
+M 435 1356
+L 435 194
+Q 435 95 458 67 481 40 548 36
+L 548 0 43 0 43 36
+Q 105 38 135 72 155 95 155 194
+L 155 1162
+Q 155 1260 132 1287 109 1315 43 1319
+L 43 1356 435 1356 Z"/>
+
+<glyph unicode="a" horiz-adv-x="1024" d="
+M 585 138
+Q 414 -13 278 -13 198 -13 145 39 92 92 92 171 92 278 184 363 276 449 585 591
+L 585 685
+Q 585 791 574 818 562 846 530 866 498 887 458 887 393 887 351 858 325 840 325 816 325 795 353 764 391 721 391 681 391 632 355 597 318 563 259 563 196 563 154 601 111 639 111 690 111 762 168 827 225 893 327 928 429 963 539 963 672 963 750 906 827 850 850 784 864 742 864 591
+L 864 228
+Q 864 164 869 147 874 131 884 123 894 115 907 115 933 115 960 152
+L 990 128
+Q 940 54 887 20 833 -13 765 -13 685 -13 640 24 595 62 585 138 Z
+M 585 211
+L 585 524
+Q 464 453 405 372 366 318 366 263 366 217 399 182 424 155 469 155 519 155 585 211 Z"/>
+
+<glyph unicode="y" horiz-adv-x="1024" d="
+M 498 -38
+L 196 655
+Q 128 812 96 848 63 884 17 898
+L 17 935 514 935 514 898
+Q 465 896 445 879 425 862 425 838 425 800 475 688
+L 635 322 744 605
+Q 803 756 803 815 803 852 779 874 754 896 692 898
+L 692 935 1005 935 1005 898
+Q 959 893 930 862 901 832 833 655
+L 566 -38
+Q 465 -298 416 -358 347 -442 243 -442 160 -442 109 -395 57 -347 57 -280 57 -222 93 -184 128 -146 180 -146 230 -146 261 -178 291 -210 292 -277 293 -315 301 -326 309 -337 324 -337 348 -337 375 -308 415 -266 469 -116
+L 498 -38 Z"/>
+</font>
+
+<font horiz-adv-x="2048">
+<!--  Font Name: Times New Roman Bold Italic
+Vendor ID: TMC 
+© 2017 The Monotype Corporation. All Rights Reserved. 
+
+Hebrew OpenType Layout logic copyright © 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; see embedded license description for details.
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=TMC&Name=Times%20New%20Roman&PSName=TimesNewRomanPS-BoldItalicMT&applanguage=en_US-->
+<font-face font-family="Times_New_Roman_Bold_Italic" units-per-em="2048" ascent="1825" descent="443"/>
+
+<hkern u1="A" u2=" " k="113"/>
+
+<glyph unicode="H" horiz-adv-x="1593" d="
+M 609 732
+L 1105 732 1215 1111
+Q 1237 1189 1237 1230 1237 1270 1210 1291 1183 1312 1080 1319
+L 1091 1356 1765 1356 1754 1319
+Q 1655 1319 1604 1277 1553 1235 1517 1111
+L 1265 243
+Q 1240 158 1240 121 1240 84 1267 65 1302 39 1394 37
+L 1384 0 723 0 738 37
+Q 834 37 880 74 925 112 963 243
+L 1080 647 586 647 470 243
+Q 445 160 445 120 445 84 476 61 506 39 596 37
+L 586 0 -66 0 -55 37
+Q 41 37 86 74 130 112 168 243
+L 420 1111
+Q 442 1186 442 1229 442 1270 416 1291 389 1312 289 1319
+L 300 1356 963 1356 948 1319
+Q 856 1319 809 1279 762 1240 723 1111
+L 609 732 Z"/>
+
+<glyph unicode="." horiz-adv-x="512" d="
+M 137 300
+Q 206 300 254 252 302 204 302 136 302 68 254 20 205 -28 137 -28 69 -28 21 20 -27 68 -27 136 -27 204 21 252 69 300 137 300 Z"/>
+
+<glyph unicode="A" horiz-adv-x="1366" d="
+M 830 437
+L 410 437 326 333 230 218
+Q 202 181 189 151 179 128 179 105 179 81 205 60 230 40 289 37
+L 289 0 -116 0 -106 37
+Q -52 46 -10 75 46 115 151 240
+L 1112 1387 1157 1387 1112 277
+Q 1109 190 1109 172 1109 104 1137 73 1164 42 1228 37
+L 1218 0 631 0 642 37
+Q 729 45 742 51 770 65 793 109 816 154 821 264
+L 830 437 Z
+M 830 519
+L 856 961 479 519 830 519 Z"/>
+
+<glyph unicode=" " horiz-adv-x="512"/>
+
+<glyph unicode="'" horiz-adv-x="569" d="
+M 367 722
+L 319 722 324 1104
+Q 325 1247 387 1317 449 1387 535 1387 583 1387 614 1357 644 1328 644 1285 644 1229 576 1105
+L 367 722 Z"/>
+
+<glyph unicode="Z" horiz-adv-x="1251" d="
+M 1390 1319
+L 353 74 434 74
+Q 677 74 824 145 971 217 1096 382
+L 1138 382 996 0 -56 0 -56 37 980 1278 853 1278
+Q 609 1278 491 1217 373 1157 289 1012
+L 249 1012 365 1356 1390 1356 1390 1319 Z"/>
+
+<glyph unicode="P" horiz-adv-x="1251" d="
+M 581 623
+L 471 245
+Q 448 165 448 132 448 86 478 62 508 39 614 37
+L 601 0 -61 0 -50 37
+Q 34 38 69 53 104 69 127 104 144 127 178 245
+L 429 1106
+Q 455 1192 455 1229 455 1266 422 1291 389 1317 302 1319
+L 313 1356 850 1356
+Q 1071 1356 1168 1300 1318 1212 1318 1036 1318 866 1169 736 1019 607 766 607 690 607 581 623 Z
+M 601 700
+Q 666 692 709 692 847 692 926 818 1005 944 1005 1081 1005 1174 954 1225 903 1277 813 1277 794 1277 766 1275
+L 601 700 Z"/>
+
+<glyph unicode="u" horiz-adv-x="1139" d="
+M 544 927
+L 350 247
+Q 336 200 336 182 336 173 343 168 351 160 362 160 408 160 485 242 595 361 716 584
+L 807 890 1060 899 868 239
+Q 844 155 844 143 844 135 852 126 859 118 867 118 881 118 894 130 930 159 989 247
+L 1023 223
+Q 884 -28 717 -28 655 -28 620 3 584 35 584 86 584 140 609 223
+L 658 392
+Q 528 203 469 137 379 38 318 5 256 -28 200 -28 147 -28 109 11 70 50 70 110 70 161 95 247
+L 208 647
+Q 236 745 236 779 236 794 228 805 220 817 202 823 183 830 133 830
+L 143 868 484 927 544 927 Z"/>
+
+<glyph unicode="z" horiz-adv-x="797" d="
+M 813 899
+L 245 228
+Q 309 209 340 171 380 121 398 21 416 -78 439 -105 462 -131 486 -131 502 -131 516 -117 530 -102 530 -84 530 -65 518 -22 510 7 510 34 510 90 546 128 581 166 631 166 676 166 707 132 737 99 737 45 737 -38 661 -106 585 -174 474 -174 346 -174 223 -56 173 -9 142 8 124 17 96 17 72 17 43 0
+L -21 0 559 688 351 688
+Q 262 688 223 666 183 644 148 580
+L 105 580 188 899 813 899 Z"/>
+
+<glyph unicode="l" horiz-adv-x="569" d="
+M 648 1387
+L 317 261
+Q 288 161 288 136 288 123 297 114 305 105 315 105 333 105 349 119 397 158 456 251
+L 495 233
+Q 400 81 308 16 245 -28 174 -28 108 -28 69 7 30 43 30 93 30 130 54 212
+L 324 1134
+Q 346 1210 346 1235 346 1259 325 1273 297 1293 240 1290
+L 251 1328 588 1387 648 1387 Z"/>
+
+<glyph unicode="e" horiz-adv-x="909" d="
+M 320 375
+Q 311 310 311 268 311 193 355 148 398 103 471 103 541 103 612 137 682 171 775 256
+L 805 229
+Q 690 90 581 31 472 -28 340 -28 173 -28 109 52 45 132 45 237 45 401 141 565 236 729 401 828 565 927 731 927 815 927 858 887 901 847 901 786 901 713 859 644 801 550 713 492 625 435 516 405 443 385 320 375 Z
+M 329 427
+Q 417 440 466 462 514 485 561 534 607 584 641 659 675 735 675 801 675 829 660 845 644 861 620 861 572 861 512 794 402 672 329 427 Z"/>
+</font>
+</defs>
+
+<g transform="matrix( 1.59991455078125, 0, 0, 1.5251312255859375, 0,0) ">
+<use xlink:href="#wood_jpg"/>
+</g>
+
+<g id="Play_Btn" transform="matrix( 1.5760498046875, 0, 0, 1.34283447265625, 961.2,637.4) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Btn_0_Layer0_0_FILL"/>
+
+<use xlink:href="#Btn_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 881.45,600.4) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-2" y="-2" width="185.5" height="110.3" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="0" y="85.55" baseline-shift="0%" kerning="auto" font-family="Times_New_Roman_Bold" font-weight="bold" font-size="96" fill="#000000" xml:space="preserve">Play</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 700.2,320.55) ">
+<clipPath id="Mask_Mask_2">
+<rect x="-2" y="-2" width="576.15" height="110.3" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_2)" writing-mode="lr"><tspan x="0" y="85.55" baseline-shift="0%" kerning="auto" font-family="Times_New_Roman_Bold_Italic" font-style="italic" font-weight="bold" font-size="96" fill="#FFFFFF" xml:space="preserve">H.A 'Z Puzzle</tspan></text>
+</g>
+</svg>
